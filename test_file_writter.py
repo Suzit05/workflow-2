@@ -1,5 +1,5 @@
 import os
-from file_write import write_to_file
+from file_writer import write_to_file
 
 def test_write_to_file():
     test_filename="test_output.txt"
