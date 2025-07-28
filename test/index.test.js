@@ -1,5 +1,5 @@
 const assert = require("assert")
-const isEven = require("../src/index")
+const {isEven} = require("../src/index")
 
 //using mocha -testing
 describe("is Even function",()=>{
